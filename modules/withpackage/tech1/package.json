@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "this is for package tutorial",
+  "main": "app.js",
+  "scripts": {
+    "t1":"node t1.js",
+    "t2":"node t2.js",
+    "t3":"node t3.js",
+    "all":"npm run t1 && npm run t2 && npm run t3",
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "akn",
+  "license": "ISC"
+}
