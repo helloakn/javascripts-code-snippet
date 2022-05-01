@@ -8,5 +8,8 @@ module.exports ={
         console.log('tmpAa',tmpAa);
         console.log("\n");
         console.log('tmpOne',tmpOne);
+    },
+    sayByeBye:()=>{
+       console.log('bye bye see u next time');
     }
 }
