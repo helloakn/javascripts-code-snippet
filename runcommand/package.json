@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "color": "^4.2.3"
+  },
+  "scripts":{
+    "hello" : "node simple.js",
+    "hihi" : "echo \"hello world\" ",
+    "dev" : "node simple.js"
+  }
+}
