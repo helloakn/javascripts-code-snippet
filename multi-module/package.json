@@ -1,0 +1,10 @@
+{
+
+  "name": "multimodule",
+  "type": "module",
+  "exports": {
+    "./m1" : {
+      "import" : "./m1/index.js"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "m1",
+  "type": "module",
+  "exports":{
+    ".": "./index.js"
+  }
+}
